@@ -8,7 +8,7 @@ Curto muito o desenvolvimento back-end, principalmente com Java e JavaScript.
 
 Quando não estou codando, provavelmente estou ouvindo música (rock na maioria das vezes), tocando bateria, jogando algum FPS ou explorando games indie. Também gosto de mergulhar em boas histórias, sejam elas livros de ficção, mangás ou qualquer universo bem escrito.
 
-Estou sempre buscando aprender algo novo, melhorar como dev e acompanhar a evolução constante da tecnologia. Bora construir coisas incríveis?
+Estou sempre buscando aprender algo novo, melhorar como dev e acompanhar a evolução constante da tecnologia. 
 
 ---
 
