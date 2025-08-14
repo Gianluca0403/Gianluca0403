@@ -11,7 +11,7 @@ Estou sempre buscando aprender algo novo, melhorar como dev e acompanhar a evolu
 ---
 
 Onde me encontrar:
-- [LinkedIn](#) (em breve!)
+- [LinkedIn](https://www.linkedin.com/in/gianluca-sacilote-427099325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Portfólio](https://github.com/Gianluca0403)
 - [Email](mailto:gianlucasacilote@gmail.com)
 
