@@ -1,6 +1,6 @@
 Olá! Me chamo Gianluca
 
-Tenho 18 anos, sou formado em Desenvolvimento de Sistemas pela ETEC Albert Einstein e atualmente estou cursando o segundo semestre de Ciência da Computação.
+Tenho 19 anos, sou formado em Desenvolvimento de Sistemas pela ETEC Albert Einstein e atualmente estou cursando o terceiro semestre de Ciência da Computação.
 
 Sempre gostei de programação e tecnologia desde pequeno — o que me levou a escolher esse caminho e me dedicar cada vez mais à área. No meu TCC, desenvolvi um jogo 2D educativo que ensina lógica de programação, unindo tecnologia, criatividade e um pouco de diversão pra facilitar o aprendizado.
 
